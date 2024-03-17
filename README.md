@@ -10,6 +10,11 @@ The FIFA dataset contains information about professional players, including thei
 
 fifa_data.csv: CSV file containing the FIFA dataset.
 
+### Link to the fifa_data.csv dataset:
+https://drive.google.com/file/d/10oyIT1KPdwUqeU9-2LX0xE5-ZytNn9su/view?usp=share_link
+
+
+
 EDA - Fifa Players Dataset  (1).ipynb: Jupyter Notebook containing Python code for data analysis.
 
 README.md: This file providing an overview of the project.
